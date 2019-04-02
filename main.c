@@ -1,2 +1,7 @@
+#include <stdio.h>
 
-//did this work
+int main(){
+    
+    printf("wasup world");
+    return 0 ;
+}
