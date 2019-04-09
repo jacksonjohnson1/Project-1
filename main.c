@@ -12,5 +12,6 @@ int main()
         c = c + 3 // implements new code
         printf("New sentence: ")
         for (q = 0; q < 26; q++); 
+        //This is new
     }
 }
